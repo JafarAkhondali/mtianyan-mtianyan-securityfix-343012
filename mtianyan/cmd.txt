@@ -1,0 +1,9 @@
+# 打包成.tar.gz等压缩格式
+python setup.py sdist
+
+# 打包成whl
+python setup.py bdist_wheel --universal
+
+# 上传
+twine upload dist/*
+
