@@ -40,20 +40,37 @@ class Aria2JsonRpc(object):
         """
         开启rpc服务
         """
-        # 启动命令写入文件
-        download_helper_path = os.path.join(os.path.dirname(os.path.dirname(os.path.realpath(__file__))),'download_helper')
-        bat_path = download_helper_path + '\startAria2Rpc.bat'
-        launch_file = open(bat_path, "w")
-        # print(bat_path)
-        new_cmd = "aria2c.exe --conf-path=aria2.conf -D"
-        launch_file.write(new_cmd)
-        launch_file.close()
-        # aria2 使用cmd打开
-        os.chdir(download_helper_path)
-        os.startfile(bat_path)
-        # print('****')
-        # 进程挂起3秒保证aria2打开完毕
-        time.sleep(3)
+        import subprocess, sys
+        if sys.platform == "linux":
+            # 启动命令写入文件
+            download_helper_path = os.path.join(os.path.dirname(os.path.dirname(os.path.realpath(__file__))),'download_helper')
+            bat_path = download_helper_path + '/startAria2Rpc.sh'
+            print(bat_path)
+            launch_file = open(bat_path, "w")
+            new_bash = "aria2c --conf-path=aria2.conf"
+            launch_file.write(new_bash)
+            launch_file.close()
+            # aria2 使用cmd打开
+            os.chdir(download_helper_path)
+            # os.Popen(bat_path)
+            subprocess.Popen('sh startAria2Rpc.sh',shell=True)
+        else:
+            # 启动命令写入文件
+            download_helper_path = os.path.join(os.path.dirname(os.path.dirname(os.path.realpath(__file__))),'download_helper')
+            bat_path = download_helper_path + '\startAria2Rpc.bat'
+            launch_file = open(bat_path, "w")
+            # print(bat_path)
+            new_cmd = "aria2c.exe --conf-path=aria2.conf -D"
+            launch_file.write(new_cmd)
+            launch_file.close()
+            # aria2 使用cmd打开
+            os.chdir(download_helper_path)
+            os.startfile(bat_path)
+            # print('****')
+            # 进程挂起3秒保证aria2打开完毕
+            time.sleep(3)
+
+        
 
     def execuetJsonRpcCmd(self, method, param=None):
         """
@@ -97,7 +114,6 @@ def via_urls(download_list,dir,filename=None):
     # 启动服务
     rpcClient = Aria2JsonRpc(rpc_url, aria2_path)
     os_path = os.getcwd()
-    print(os_path)
     download_path = os.path.join(os_path,dir[2:])
     for url in download_list:
         # 添加下载任务
@@ -109,9 +125,8 @@ if __name__ == '__main__':
     rpc_url = "http://localhost:6800/jsonrpc?tm=%s"
     aria2_path = "./"
     # 启动服务
-    # rpcClient = Aria2JsonRpc(rpc_url, aria2_path)
+    rpcClient = Aria2JsonRpc(rpc_url, aria2_path)
     # 添加下载任务
     # rpcClient.addUris(magnet,'./dir/')
     # via_urls(magnet,'./dir')
-    os_path = os.getcwd()
-    print(os_path)
+    # startAria2Rpc()
