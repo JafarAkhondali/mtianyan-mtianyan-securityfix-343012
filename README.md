@@ -47,7 +47,7 @@
 >Vue前台 + Django Restful Framework + Xadmin(已被替换为Antd Design Pro) 学习于两年前重写了后台管理(使用TyAdminCli)。
 3. **OnlineMooc**: 
 >Django Template 前台 + Django + Xadmin(已被替换为Antd Design Pro) 学习于两年前重写了后台管理(使用TyAdminCli)。
-4. **movie_project**: 
+4. **FlaskMovie**: 
 >Flask 学习于两年前的学习项目。
 5. **xadmin_ueditor_django2.2**: 
 >Django2.2 修复Xadmin和Ueditor可用性。
