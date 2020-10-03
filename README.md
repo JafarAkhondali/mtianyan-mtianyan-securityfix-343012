@@ -21,7 +21,7 @@
 ![Docker](https://img.shields.io/badge/docker-latest-yellow)
 ![ElasticSearch](https://img.shields.io/badge/Elasticsearch-latest-green)
 
-- ⚡️ 编程就是不断积累经验，触类旁通的过程离不开努力。
+- ⚡️ 编程就是不断积累经验，触类旁通的过程离不开努力
 
 [![mtianyan's github stats](https://github-readme-stats.vercel.app/api?username=mtianyan&show_icons=true)](https://github.com/mtianyan)
 
@@ -42,17 +42,17 @@
 # 查看我以前的业余项目
 
 1. **FunpySpiderSearchEngine**: 
->Scrapy + ElasticSearch + Django 学习于两年前一直维护可用性的学习项目。 
+>Scrapy + ElasticSearch + Django 学习于两年前一直维护可用性的学习项目。
 2. **VueDjangoAntdProBookShop**: 
->Vue前台 + Django Restful Framework + Xadmin(已被替换为Antd Design Pro) 学习于两年前重写了后台管理(使用TyAdminCli)
+>Vue前台 + Django Restful Framework + Xadmin(已被替换为Antd Design Pro) 学习于两年前重写了后台管理(使用TyAdminCli)。
 3. **OnlineMooc**: 
->Django Template 前台 + Django + Xadmin(已被替换为Antd Design Pro) 学习于两年前重写了后台管理(使用TyAdminCli)
+>Django Template 前台 + Django + Xadmin(已被替换为Antd Design Pro) 学习于两年前重写了后台管理(使用TyAdminCli)。
 4. **movie_project**: 
 >Flask 学习于两年前的学习项目。
 5. **xadmin_ueditor_django2.2**: 
 >Django2.2 修复Xadmin和Ueditor可用性。
 
-# 学了一点的(包含一些好几年前的,太久不用可能都不会了的)。
+# 学了一点的(包含一些好几年前的,太久不用可能都不会了的)
 
 **Vue**: https://github.com/mtianyan/VueTravel
 
