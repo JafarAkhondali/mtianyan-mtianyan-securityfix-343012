@@ -51,3 +51,12 @@
 >Flask 学习于两年前的学习项目。
 5. **xadmin_ueditor_django2.2**: 
 >Django2.2 修复Xadmin和Ueditor可用性。
+
+# 学了一点的(包含一些好几年前的,太久不用可能都不会了的)。
+
+**Vue**: https://github.com/mtianyan/VueTravel
+**OpenCv**: https://github.com/mtianyan/OpencvTensorflowPlay
+**TensorFlow**: https://github.com/mtianyan/TensorFlowPlayDemo
+**Tornado**: https://github.com/mtianyan/TornadoForum
+**Numpy,Pandas,Matplotlib**: https://github.com/mtianyan/Py3DataScience
+**小程序 Android**: https://github.com/mtianyan/Mtianyan001
