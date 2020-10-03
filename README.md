@@ -41,8 +41,13 @@
 
 # 查看我以前的业余项目
 
-1. **FunpySpiderSearchEngine**: Scrapy + ElasticSearch + Django 学习于两年前一直维护可用性的学习项目。 
-2. **VueDjangoAntdProBookShop**: Vue前台 + Django Restful Framework + Xadmin(已被替换为Antd Design Pro) 学习于两年前重写了后台管理(使用TyAdminCli)的学习项目。 
-3. **OnlineMooc**: Django Template 前台 + Django + Xadmin(已被替换为Antd Design Pro) 学习于两年前重写了后台管理(使用TyAdminCli)的学习项目。 
-4. **movie_project**: Flask 学习于两年前的学习项目。
-5. **xadmin_ueditor_django2.2**: Django2.2 修复Xadmin和Ueditor可用性。
+1. **FunpySpiderSearchEngine**: 
+>Scrapy + ElasticSearch + Django 学习于两年前一直维护可用性的学习项目。 
+2. **VueDjangoAntdProBookShop**: 
+>Vue前台 + Django Restful Framework + Xadmin(已被替换为Antd Design Pro) 学习于两年前重写了后台管理(使用TyAdminCli)的学习项目。 
+3. **OnlineMooc**: 
+>Django Template 前台 + Django + Xadmin(已被替换为Antd Design Pro) 学习于两年前重写了后台管理(使用TyAdminCli)的学习项目。 
+4. **movie_project**: 
+>Flask 学习于两年前的学习项目。
+5. **xadmin_ueditor_django2.2**: 
+>Django2.2 修复Xadmin和Ueditor可用性。
