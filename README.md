@@ -44,9 +44,9 @@
 1. **FunpySpiderSearchEngine**: 
 >Scrapy + ElasticSearch + Django 学习于两年前一直维护可用性的学习项目。 
 2. **VueDjangoAntdProBookShop**: 
->Vue前台 + Django Restful Framework + Xadmin(已被替换为Antd Design Pro) 学习于两年前重写了后台管理(使用TyAdminCli)的学习项目。 
+>Vue前台 + Django Restful Framework + Xadmin(已被替换为Antd Design Pro) 学习于两年前重写了后台管理(使用TyAdminCli)
 3. **OnlineMooc**: 
->Django Template 前台 + Django + Xadmin(已被替换为Antd Design Pro) 学习于两年前重写了后台管理(使用TyAdminCli)的学习项目。 
+>Django Template 前台 + Django + Xadmin(已被替换为Antd Design Pro) 学习于两年前重写了后台管理(使用TyAdminCli)
 4. **movie_project**: 
 >Flask 学习于两年前的学习项目。
 5. **xadmin_ueditor_django2.2**: 
