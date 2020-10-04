@@ -33,7 +33,7 @@
 
 2. https://github.com/mtianyan/artipub
 
->2000star的node+react技术栈[一文多发平台](https://github.com/crawlab-team/artipub)，我进行了五个网站的维护，检查cookie的axios加速优化，[PR](https://github.com/crawlab-team/artipub/pull/110)已被Merge。正在**独立开发**扩展更多功能，追齐付费平台功能，Chrome 插件扩展，Electron版客户端也在开发中。
+>Node+React+爬虫技术栈的一文多发平台[Artipub](https://github.com/crawlab-team/artipub)<img src="https://img.shields.io/github/stars/crawlab-team/artipub?logo=github">，我进行了五个网站的维护，检查cookie的axios加速优化，[PR](https://github.com/crawlab-team/artipub/pull/110)已被Merge。正在**独立开发**扩展更多功能，追齐付费平台功能，Chrome 插件扩展，Electron版客户端也在开发中。
 
 3. https://www.npmjs.com/package/mtianyan-pro-table
 
@@ -41,15 +41,15 @@
 
 # 查看我以前的业余项目
 
-1. **FunpySpiderSearchEngine**: 
+1. **FunpySpiderSearchEngine**<img src="https://img.shields.io/github/stars/mtianyan/FunpySpiderSearchEngine?logo=github">: 
 >Scrapy + ElasticSearch + Django 学习于两年前一直维护可用性的学习项目。
-2. **VueDjangoAntdProBookShop**: 
+2. **VueDjangoAntdProBookShop<img src="https://img.shields.io/github/stars/mtianyan/VueDjangoAntdProBookShop?logo=github">**: 
 >Vue前台 + Django Restful Framework + Xadmin(已被替换为Antd Design Pro) 学习于两年前重写了后台管理(使用TyAdminCli)。
-3. **OnlineMooc**: 
+3. **OnlineMooc<img src="https://img.shields.io/github/stars/mtianyan/OnlineMooc?logo=github">**: 
 >Django Template 前台 + Django + Xadmin(已被替换为Antd Design Pro) 学习于两年前重写了后台管理(使用TyAdminCli)。
-4. **FlaskMovie**: 
+4. **FlaskMovie**<img src="https://img.shields.io/github/stars/mtianyan/FlaskMovie?logo=github">: 
 >Flask 学习于两年前的学习项目。
-5. **xadmin_ueditor_django2.2**: 
+5. **xadmin_ueditor_django2.2**<img src="https://img.shields.io/github/stars/mtianyan/xadmin_ueditor_django2.2?logo=github">: 
 >Django2.2 修复Xadmin和Ueditor可用性。
 
 # 学了一点的(包含一些好几年前的,太久不用可能都不会了的)
