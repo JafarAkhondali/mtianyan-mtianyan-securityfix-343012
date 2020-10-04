@@ -41,15 +41,15 @@
 
 # 查看我以前的业余项目
 
-1. <img src="https://img.shields.io/github/stars/mtianyan/FunpySpiderSearchEngine?logo=github">**FunpySpiderSearchEngine**: 
+1. **FunpySpiderSearchEngine**: 
 >Scrapy + ElasticSearch + Django 学习于两年前一直维护可用性的学习项目。
-2. <img src="https://img.shields.io/github/stars/mtianyan/VueDjangoAntdProBookShop?logo=github">**VueDjangoAntdProBookShop**: 
+2. **VueDjangoAntdProBookShop**: 
 >Vue前台 + Django Restful Framework + Xadmin(已被替换为Antd Design Pro) 学习于两年前重写了后台管理(使用TyAdminCli)。
-3. <img src="https://img.shields.io/github/stars/mtianyan/OnlineMooc?logo=github">**OnlineMooc**: 
+3. **OnlineMooc**: 
 >Django Template 前台 + Django + Xadmin(已被替换为Antd Design Pro) 学习于两年前重写了后台管理(使用TyAdminCli)。
-4. <img src="https://img.shields.io/github/stars/mtianyan/FlaskMovie?logo=github">**FlaskMovie**: 
+4. **FlaskMovie**: 
 >Flask 学习于两年前的学习项目。
-5. <img src="https://img.shields.io/github/stars/mtianyan/xadmin_ueditor_django2.2?logo=github">**xadmin_ueditor_django2.2**: 
+5. **xadmin_ueditor_django2.2**: 
 >Django2.2 修复Xadmin和Ueditor可用性。
 
 # 学了一点的(包含一些好几年前的,太久不用可能都不会了的)
