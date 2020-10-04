@@ -33,7 +33,7 @@
 
 2. https://github.com/mtianyan/artipub
 
->2000star的node+react技术栈[一文多发平台](https://github.com/crawlab-team/artipub)，我进行了五个网站的维护，检查cookie的axios加速优化，[PR](https://github.com/crawlab-team/artipub/pull/110)已被Merge。正在独立开发扩展更多功能，追齐付费平台功能，Electron版客户端也在个人独立开发中。
+>2000star的node+react技术栈[一文多发平台](https://github.com/crawlab-team/artipub)，我进行了五个网站的维护，检查cookie的axios加速优化，[PR](https://github.com/crawlab-team/artipub/pull/110)已被Merge。正在**独立开发**扩展更多功能，追齐付费平台功能，Chrome 插件扩展，Electron版客户端也在开发中。
 
 3. https://www.npmjs.com/package/mtianyan-pro-table
 
