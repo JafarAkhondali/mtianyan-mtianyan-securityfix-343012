@@ -1,6 +1,6 @@
 # 欢迎来到我的主页 👋
 
-大家好，我是一个18年本科毕业，练习时长两年半的全干实习生！
+大家好，我是一个18年本科毕业的全干工程师！
 
 - 🏢 我现在在成都从事Python后端及一些爬虫工作
 - 🚀 日常主要技术:
@@ -28,6 +28,8 @@
 
 # 查看我最近的业余项目
 1. TyAdminCli: Django Restful Framework + Antd Design Pro V4 类似Xadmin 的基于Model 快速生成前后台管理增删改查，筛选，搜索的脚手架工具。
+
+https://github.com/mtianyan/tyadmin_api_cli
 
 已生成示例项目: 
 
