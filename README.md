@@ -29,7 +29,10 @@
 # 查看我最近的业余项目
 1. TyAdminCli: Django Restful Framework + Antd Design Pro V4 类似Xadmin 的基于Model 快速生成前后台管理增删改查，筛选，搜索的脚手架工具。
 
-已生成示例项目: https://mooc.funpython.cn/xadmin/
+已生成示例项目: 
+
+https://mooc.funpython.cn/xadmin/ 
+https://imooc.funpython.cn/xadmin/
 
 2. https://github.com/mtianyan/artipub
 
