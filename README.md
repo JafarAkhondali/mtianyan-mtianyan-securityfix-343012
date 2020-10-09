@@ -46,7 +46,8 @@
 2. **VueDjangoAntdProBookShop**: 
 >Vue前台 + Django Restful Framework + Xadmin(已被替换为Antd Design Pro) 学习于两年前重写了后台管理(使用TyAdminCli)。
 3. **OnlineMooc**: 
->Django Template 前台 + Django + Xadmin(已被替换为Antd Design Pro) 学习于两年前重写了后台管理(使用TyAdminCli)。
+>旧版: Django Template 前台 + Django + Xadmin(已被替换为Antd Design Pro) 学习于两年前重写了后台管理(使用TyAdminCli)。
+>V2: Vue前台 + Django3.1 + DjangoRestful Framework + Ant Design Pro V4后台 开发的在线教育网站及后台管理(使用TyAdminCli)
 4. **FlaskMovie**: 
 >Flask 学习于两年前的学习项目。
 5. **xadmin_ueditor_django2.2**: 
