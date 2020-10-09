@@ -42,7 +42,7 @@
 # 查看我以前的业余项目
 
 1. **FunpySpiderSearchEngine**: 
->Scrapy + ElasticSearch + Django 学习于两年前一直维护可用性的学习项目。
+>Word2vec 千人千面 个性化搜索 + Scrapy2.3.0(爬取数据) + ElasticSearch7.9.1(存储数据并提供对外Restful API) + Django3.1.1 搜索
 2. **VueDjangoAntdProBookShop**: 
 >Vue前台 + Django Restful Framework + Xadmin(已被替换为Antd Design Pro) 学习于两年前重写了后台管理(使用TyAdminCli)。
 3. **OnlineMooc**: 
