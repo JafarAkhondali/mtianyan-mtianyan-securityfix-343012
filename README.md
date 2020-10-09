@@ -31,8 +31,9 @@
 
 已生成示例项目: 
 
-https://mooc.funpython.cn/xadmin/ 
-https://imooc.funpython.cn/xadmin/
+- https://imooc.funpython.cn/xadmin/
+- https://mooc.funpython.cn/xadmin/ 
+
 
 2. https://github.com/mtianyan/artipub
 
