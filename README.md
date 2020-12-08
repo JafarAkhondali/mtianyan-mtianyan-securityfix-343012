@@ -19,8 +19,6 @@
 ![Docker](https://img.shields.io/badge/docker-latest-yellow)
 ![ElasticSearch](https://img.shields.io/badge/Elasticsearch-latest-green)
 
-- ⚡️ 编程就是不断积累经验，触类旁通的过程离不开努力
-
 [![mtianyan's github stats](https://github-readme-stats.vercel.app/api?username=mtianyan&show_icons=true)](https://github.com/mtianyan)
 
 
