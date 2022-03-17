@@ -1,6 +1,6 @@
 # 欢迎来到我的主页  ![](https://visitor-badge.glitch.me/badge?page_id=mtianyan.readme)👋
 
-- 🏢 我现在在成都从事Python后端及一些爬虫工作，会做些深度学习相关项目工程实践。
+- 🏢 全干工程师一枚,前端React，后端Django，爬虫也做！
 - 🚀 日常主要技术:
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Node](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
